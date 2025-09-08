@@ -8,7 +8,10 @@ PCがたった後勝手にQiitaにログインしてくれるようになりま�
 ※「qiita_AutoLogin.py」にある、username,identity,passwordはご自身のアカウントにて設定してください。
 
 
-以下のサイトに作成過程と概要をまとめました・
+以下のサイトに作成過程と概要をまとめました。　　　　　　　
+
+
+
 作成過程：https://qiita.com/ramunedayo/items/a94ec55d3446ce7e5984
 
 概要：https://qiita.com/ramunedayo/items/5e79be6e51446c03c3e5
